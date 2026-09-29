@@ -90,7 +90,7 @@
 &trans &trans &trans   &trans   &trans    &trans                           &trans      &trans    &trans    &trans  &trans   &trans
 &trans &trans &trans   &trans   &trans    &trans                           &trans      &trans    &trans    &trans  &trans   &trans
 &trans &trans &trans   &trans   &trans    &trans                           &trans      &trans    &trans    &trans  &trans   &trans
-&trans &trans &trans   &trans   &trans    &trans &trans        &to DEFAULT &jp F       &trans    &trans    &trans  &trans   &trans
+&trans &trans &trans   &trans   &trans    &trans &trans        &to DEFAULT &kp F       &trans    &trans    &trans  &trans   &trans
                        &trans   &trans    &trans &trans        &kp LEFT    &kp RIGHT   &trans    &trans
     >;
 
