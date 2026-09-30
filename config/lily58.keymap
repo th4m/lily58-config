@@ -90,8 +90,8 @@
 &trans &trans &trans   &trans   &trans    &trans                              &trans      &trans    &trans    &trans  &trans   &trans
 &trans &trans &trans   &trans   &trans    &trans                              &trans      &trans    &trans    &trans  &trans   &trans
 &trans &trans &trans   &trans   &trans    &trans                              &trans      &trans    &trans    &trans  &trans   &trans
-&trans &trans &trans   &trans   &trans    &&kp F    &trans        &to DEFAULT &kp F       &trans    &trans    &trans  &trans   &trans
-                       &trans   &trans    &&kp LEFT &kp RIGHT     &kp LEFT    &kp RIGHT   &trans    &trans
+&trans &trans &trans   &trans   &trans    &kp F    &trans         &to DEFAULT &kp F       &trans    &trans    &trans  &trans   &trans
+                       &trans   &trans    &kp LEFT &kp RIGHT      &kp LEFT    &kp RIGHT   &trans    &trans
     >;
 
     sensor-bindings = <&inc_dec_kp PG_DN PG_UP>;
